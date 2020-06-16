@@ -2,7 +2,8 @@
 Website tab control, created using pure JS
 
 
-/ We are saerching for specific tabs and tab contents using querySelectorAll and querySelector
+// We are saerching for specific tabs and tab contents using querySelectorAll and querySelector
+
     let tab = document.querySelectorAll('.info-header-tab'),
         info = document.querySelector('.info-header'),
         tabContent = document.querySelectorAll('.info-tabcontent');
